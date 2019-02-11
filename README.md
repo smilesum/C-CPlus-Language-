@@ -1,2 +1,2 @@
 # C-CPlus-Language-
-Leard C++
+Learn C++
